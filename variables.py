@@ -1,6 +1,4 @@
-# Variables and data types
-
-name = "Nadeem"
+Name = "Nadeem"
 age = 18
 cgpa = 8.5
 
